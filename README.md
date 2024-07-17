@@ -1,2 +1,2 @@
 # OpenCV
-Son programas que ayudan en la deteccion de rostros
+Application in Python using OpenCV
